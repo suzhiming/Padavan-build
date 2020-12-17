@@ -102,5 +102,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: k2p-Padavan-packages
+        name: K2P-Padavan-packages
         path: /opt/images
